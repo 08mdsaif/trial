@@ -17,7 +17,7 @@ const twoEmbed = 'https://www.2embed.cc/embed/{id}';
 const riveStream = 'https://rivestream.xyz/watch?type={type}&id={id}&season={season}&episode={episode}';
 // https://www.fmovies.gd/watch/tv/61859/1/1
 const fmovies = 'https://www.fmovies.gd/watch/{type}/{id}';
-const AiSearch = '/api/ai-search';
+const AiSearch = 'https://wovie3.vercel.app/api/ai-search';
 
 
 // https://vidsrc.to/embed/movie/{id}
